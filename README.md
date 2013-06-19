@@ -4,4 +4,4 @@ Using this webapp you can upload files to your very own Dropbox. By following th
 
 ###Requirements & Usage
 
-This app is based on the Dropbox API implementation by BenTheDesigner. See [the readme in his repository](https://github.com/BenTheDesigner/Dropbox/blob/master/examples/readme.md) for further information about Dropbox related stuff.  
+This app is based on the Dropbox API implementation by [BenTheDesigner](https://github.com/BenTheDesigner). See [the readme in his repository](https://github.com/BenTheDesigner/Dropbox/blob/master/examples/readme.md) for further information about Dropbox related stuff.  
